@@ -1,7 +1,7 @@
-package main
+package gotest
 
 import "fmt"
 
 func Version() {
-  fmt.Println("v2")
+  fmt.Println("v3")
 }
